@@ -54,7 +54,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-maven-plugin</artifactId>
             <configuration>
-               <mainClass>com.product.ProductAppAwsApplication</mainClass>
+               <mainClass>com.product.ProductAppAWSApplication</mainClass>
             </configuration>
         </plugin>
     </plugins>
